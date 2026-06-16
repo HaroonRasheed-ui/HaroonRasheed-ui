@@ -39,7 +39,7 @@ I work across the AI engineering stack from prompt and system-prompt design to R
 
 > 🔒 Most repositories are private (client / production code). Descriptions reflect live, deployed work.
 
-### Hamer AI Assistant (Assistive Voice Conversational AI)
+### Hamer AI Assistant - Assistive Voice Conversational AI
 
 Multi-modal (voice + text) AI assistant with real-time LLM responses, multi-turn memory, and tool-use / contextual reasoning that handles complex, multi-step queries autonomously.
 
