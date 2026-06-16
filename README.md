@@ -9,7 +9,7 @@
 
 I'm an **AI Engineer** from Pakistan, focused on building production-grade generative AI systems, Chatbot development and designs, and business automation workflows. I hold a BS in Artificial Intelligence and have hands-on experience integrating LLMs with real-world products that clients actually use.
 
-I work across the AI engineering stack — from prompt and system-prompt design to RAG pipelines, REST API backends, and n8n automations that wire everything together.
+I work across the AI engineering stack from prompt and system-prompt design to RAG pipelines, REST API backends, and n8n automations that wire everything together.
 
 ---
 
@@ -17,7 +17,7 @@ I work across the AI engineering stack — from prompt and system-prompt design 
 
 - LLM-powered chatbot development with multi-turn memory, intent recognition, and contextual reasoning
 - RAG / retrieval pipeline design and deployment
-- Business process automation with n8n — connecting LLMs to APIs, databases, and webhooks
+- Business process automation with n8n connecting LLMs to APIs, databases, and webhooks
 - Prompt and system-prompt engineering for real-world production use cases
 - LLM evaluation for accuracy, latency, and reasoning depth
 - ML/DL model building for NLP tasks: intent recognition, NER, text classification, sentiment analysis
@@ -39,7 +39,7 @@ I work across the AI engineering stack — from prompt and system-prompt design 
 
 > 🔒 Most repositories are private (client / production code). Descriptions reflect live, deployed work.
 
-### Hamer AI Assistant — Agentic Conversational AI
+### Hamer AI Assistant (Assistive Voice Conversational AI)
 
 Multi-modal (voice + text) AI assistant with real-time LLM responses, multi-turn memory, and tool-use / contextual reasoning that handles complex, multi-step queries autonomously.
 
@@ -53,7 +53,7 @@ Multi-modal (voice + text) AI assistant with real-time LLM responses, multi-turn
 
 Scheduled automation pipeline that pulls data from Stripe and QuickBooks Online via their APIs, matches transactions, and surfaces only discrepancies — replacing a manual multi-hour reconciliation process with a hands-off daily run used by a real client.
 
-- Built on n8n with Python scripting and REST API integrations
+- Built on n8n with integrating QuickBooks and Claude AI
 - Drastically reduced manual processing time per reconciliation cycle
 - Deployed in production; exceptions-only reporting surfaces what matters
 
