@@ -92,6 +92,6 @@ Assistive wearable device with real-time CNN/YOLO-based object detection and tex
 ## 📫 Connect With Me
 
 - 📧 Email: [haroon941rasheed@gmail.com](mailto:haroon941rasheed@gmail.com)
-- 💼 LinkedIn: [Haroon Rasheed]([https://www.linkedin.com/in/haroon-rasheed](https://www.linkedin.com/in/haroon-rasheed-383768375))
+- 💼 LinkedIn: [Haroon Rasheed](https://www.linkedin.com/in/haroon-rasheed-383768375)
 - 📞 WhatsApp: [+92 324-0829682](https://wa.me/923240829682)
 - 📍 Charsadda, KPK, Pakistan · **Open to Remote**
