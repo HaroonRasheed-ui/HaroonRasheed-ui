@@ -24,6 +24,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Fix directory ownership
+        run: sudo chown -R $(id -u):$(id -g) dist
+
       - name: Push snake svg to the output branch
         run: |
           cd dist
