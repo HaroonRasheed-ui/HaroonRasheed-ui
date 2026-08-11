@@ -121,7 +121,7 @@ Multi-modal (voice + text) AI assistant with real-time LLM responses, multi-turn
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="./profile/trophy.svg" alt="Trophies" />
+  <img src="https://github-trophies.devomb.com/?username=HaroonRasheed-ui&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ### 🐍 Contribution Snake
