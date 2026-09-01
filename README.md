@@ -47,7 +47,7 @@ I work across the full stack — from prompt/system-prompt design, to OCR and RA
 
 > 🔒 Most client/production repos are private. Descriptions reflect live, deployed work.
 
-### 📄 LogiScan / IDP Studio — Intelligent Document Processing Pipeline
+### 📄 HaeirLens OCR Based Data Exctraction — Intelligent Document Processing Pipeline
 Production OCR pipeline for Haier Pakistan Delivery Notes & Gate Passes, extracting Customer No, DN No, model codes, serial numbers, and item numbers.
 - Rearchitected from a job-queue/SQLite/dashboard model into a single synchronous `POST /extract → immediate result` FastAPI endpoint
 - ~0.26s/region throughput using PaddleOCR PP-OCRv6_tiny + OpenVINO HPI acceleration, with parallel page processing via ThreadPoolExecutor
