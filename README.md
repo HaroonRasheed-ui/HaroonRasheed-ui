@@ -15,7 +15,7 @@
 
 I'm an **AI & Automation Engineer** from Pakistan, focused on building production-grade generative AI systems, OCR/computer-vision pipelines, and business automation workflows. I hold a BS in Artificial Intelligence and have hands-on experience integrating LLMs and CV models into real-world products that clients actually run in production.
 
-I work across the full stack — from prompt/system-prompt design, to OCR and RAG pipelines, to REST API backends and n8n automations that wire everything together.
+I work across the full stack from prompt/system-prompt design, to OCR and RAG pipelines, to REST API backends and n8n automations that wire everything together.
 
 ---
 
@@ -56,7 +56,7 @@ Production OCR pipeline for Haier Pakistan Delivery Notes & Gate Passes, extract
 ---
 
 ### 💱 Cross-System Reconciliation Automation (n8n + Python)
-Scheduled automation pipeline pulling data from Stripe and QuickBooks Online via their APIs, matching transactions and surfacing only discrepancies — replacing a manual multi-hour reconciliation process with a hands-off daily run used by a real client.
+Scheduled automation pipeline pulling data from Stripe and QuickBooks Online via their APIs, matching transactions and surfacing only discrepancies replacing a manual multi-hour reconciliation process with a hands-off daily run used by a real client.
 - Built on n8n, integrating QuickBooks Online and Claude AI
 - Drastically reduced manual processing time per reconciliation cycle
 - Deployed in production; exceptions-only reporting surfaces what matters
