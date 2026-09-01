@@ -136,7 +136,7 @@ Multi-modal (voice + text) AI assistant with real-time LLM responses, multi-turn
 
 ## 📬 Connect With Me
 
-- 📧 Email: [haroon941rasheed@gmail.com](mailto:haroon941rasheed@gmail.com)
+- 📧 Email: [haroon5253rasheed@gmail.com](mailto:haroon5253rasheed@gmail.com)
 - 💼 LinkedIn: [Haroon Rasheed](https://www.linkedin.com/in/haroon-rasheed-383768375)
 - 📞 WhatsApp: [+92 324-0829682](https://wa.me/923240829682)
 - 📍 Charsadda, KPK, Pakistan · **Open to Remote**
